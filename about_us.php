@@ -103,8 +103,8 @@ else{
                <img src="image/admin.jpg" class="align-self-center mr-3" style="width:60px">
                <div class="media-body">
                  <h4>Ankit Giri</h4>
-                 <p>Software Engineer || Web Developer || Programmer</p>
-                 <p>Hello users, I'm delighted to welcome you all from ecompetitivetest.com. This site is designed to help 
+                 <p>Software Development Engineer || Web Developer || Programmer</p>
+                 <p>Hello users, I'm all delighted to welcome you all from ecompetitivetest.com. This site is designed to help 
                  college graduates to prepare for various job interviews and online tests. This site contains online study
                  materials and mock tests. So please visit and get all benifits as soon as for free of cost. Do share your
                  suggestions and comments for better user experience.</p>

@@ -41,8 +41,8 @@ if(isset($_COOKIE))
   <title>ecompetitivetest.com</title>
   <link rel="icon" href="image/project.png">
   <meta charset="utf-8">
-  <meta name="description" content="ecompetitivetest.com is an E-learning website">
-  <meta name="keywords" content="eBooks, Mock Tests, C Programming, Data Structures, Quantitative Aptitude, Logical Reasoning, English">
+  <meta name="description" content="ecompetitivetest.com is an e-learning website and a free mock test platform.">
+  <meta name="keywords" content="eBooks, Mock Tests, C/C++, Data Structures, Quantitative Aptitude, Logical Reasoning, English">
   <meta name="author" content
   ="ecompetitivetest.com">
   <meta name="viewport" content="width=device-width, initial-scale=1">

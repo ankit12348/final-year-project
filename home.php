@@ -125,7 +125,7 @@ else{
                         <div class="card-body">
                           We are providing eBooks for 5 categories.
                           <ul>
-                            <li>C Programming</li>
+                            <li>C/C++</li>
                             <li>Data Structure</li>
                             <li>Quantitative Aptitude</li>
                             <li>English</li>
