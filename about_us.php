@@ -100,7 +100,7 @@ else{
            </div>
            <div id="collapseOne" class="collapse show" data-parent="#accordion">
              <div class="card-body">
-               <img src="image/admin.jpg" class="align-self-center mr-3" style="width:60px">
+               <img src="image/admin.jpeg" class="align-self-center mr-3" style="width:60px">
                <div class="media-body">
                  <h4>Ankit Giri</h4>
                  <p>Software Development Engineer || Web Developer || Programmer</p>
